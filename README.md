@@ -3,7 +3,7 @@ Berikut adalah soal devops
 Goals nya adalah menginstallkan laravel dari repo ini pada port 80 server tujuan 
 informasi server akan diberikan sebelum interview dilakukan
 
-## Stact Aplikasi
+## Stack Aplikasi
 1. Laravel 
 2. React vite
 
